@@ -1,0 +1,6 @@
+
+ ***** Holiday budget (rome) ***** 
+Hotel total cost: 70
+Plane total cost: 40
+Car rental cost: 60
+Holiday total cost: 170
